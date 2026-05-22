@@ -46,3 +46,7 @@ traitlets==5.14.3
 typing-extensions==4.15.0
 typing-inspection==0.4.2
 wcwidth==0.6.0
+python-telegram-bot
+python-dotenv
+fastapi
+uvicorn
